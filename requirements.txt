@@ -2,7 +2,7 @@ setuptools>=65.0.0
 wheel
 Flask==2.3.3
 Flask-SQLAlchemy==3.0.5
-SQLAlchemy==2.1.0
+SQLAlchemy==2.0.52
 ibapi==9.81.1.post1
 python-dotenv==1.0.0
 gunicorn==21.2.0
